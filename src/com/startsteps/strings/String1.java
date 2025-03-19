@@ -1,4 +1,4 @@
-package com.startsteps;
+package com.startsteps.strings;
 
 class String1 {
 

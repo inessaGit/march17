@@ -1,4 +1,4 @@
-package com.startsteps;
+package com.startsteps.arrays;
 
 public class Array {
 
